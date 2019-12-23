@@ -1,2 +1,2 @@
-# S-P-500-ETF-Compound-Interest-Calculator
+# S&P-500-ETF-Compound-Interest-Calculator
 A simple Python program that estimates your yearly net worth based on several factors including income, age, and % of money invested per year into a simple S&amp;P 500 ETF (such as IVV or VOO, etc.). The program makes several conservative assumptions, so in reality, if you stuck to this plan, you'd accumulate more wealth over time. This is just a fun program that I made on my path to financial independence, enjoy!
